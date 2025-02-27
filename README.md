@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is a simple custom shell implemented in C. It provides basic command execution, variable assignment, and built-in commands like `cd`, `echo`, and `export`. The shell also supports background processes.
+This is lab 1 in Our Operating System Course.
+A simple custom shell implemented in C. It provides basic command execution, variable assignment, and built-in commands like `cd`, `echo`, and `export`. The shell also supports background processes.
 
 ## Features
 
