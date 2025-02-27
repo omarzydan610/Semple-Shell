@@ -24,8 +24,8 @@ This is a simple custom shell implemented in C. It provides basic command execut
 
 ```sh
 # Clone the repository
-git clone <https://github.com/omarzydan610/Semple-Shell>
-cd <Semple-Shell>
+git clone https://github.com/omarzydan610/Semple-Shell
+cd Semple-Shell
 
 # Compile the shell
 gcc -o custom_shell shell.c
